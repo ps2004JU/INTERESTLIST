@@ -6,4 +6,4 @@ Interest no - 5 : Interface designer
 Interest no - 6 : Designer
 Interest no - 7 : VFX Designer
 Interest no - 8 : Chef
-Interest no - 9 : Polity Professor/TeacherInterest no 10 :: School Teacher of Computer/polity
+Interest no - 9 : Polity Professor/Teacher
