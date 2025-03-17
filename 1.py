@@ -6,7 +6,7 @@ while True:
     if(i=='a' or i=="A"):
         a=open("MYF.txt","a")
         i1=input("Add ur interests :: ")        
-        a.write(f"Interest {c+1} :: {i1}")
+        a.write(f"Interest no {c+1} :: {i1}")
         print("Success")
         a.close()
     elif(i=="r" or i=="R"):
