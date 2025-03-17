@@ -1,0 +1,9 @@
+Interest no - 1 : Journalism
+Interest no - 2 : Politics
+Interest no - 3 : Cloud Computing Support Engineer
+Interest no - 4 : Software Testing
+Interest no - 5 : Interface designer
+Interest no - 6 : Designer
+Interest no - 7 : VFX Designer
+Interest no - 8 : Chef
+Interest 9 :: Polity Professor/Teacher
