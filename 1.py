@@ -1,3 +1,4 @@
+print("Welcome to My Interest List")
 while True:
     x = open("MYF.txt","r")
     c = len(x.readlines())
@@ -14,5 +15,5 @@ while True:
         print(a.read())
         a.close()
     else:
-        print("Thank you!!!!")
+        print("Thank you!!!! Have a nice day")
         break
